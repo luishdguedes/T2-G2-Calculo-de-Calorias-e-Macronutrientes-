@@ -4,16 +4,11 @@ Projeto interdisciplinar voltado à análise do problema e à proposição de um
 
 ## Contexto
 
-Repositório desenvolvido durante a graduação em Ciência da Computação, como parte das atividades práticas de programação e engenharia de software.
-
-## Tecnologias
-
-- Java
-- Git e GitHub
+Repositório desenvolvido durante a graduação em Ciência da Computação, com foco em levantamento de requisitos, organização da solução e desenvolvimento web.
 
 ## Objetivo
 
-Consolidar fundamentos de programação, organização de código e resolução de problemas por meio de uma implementação funcional e documentada.
+Explorar a construção de uma solução digital para apoiar o acompanhamento nutricional, transformando requisitos do problema em uma proposta de aplicação clara e utilizável.
 
 ## Autor
 
